@@ -1,0 +1,76 @@
+{
+  "TV": [
+    {
+      "Title": "ERT1",
+      "Image": "https://i.ibb.co/THybVz9/ert1.png",
+      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "ERT2",
+      "Image": "https://i.postimg.cc/43zwqGzZ/ert2.png",
+      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "ERT3",
+      "Image": "https://i.postimg.cc/cHzp4Z5j/ert3.png",
+      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "MEGA",
+      "Image": "https://i.postimg.cc/NGPV1gDP/mega.png",
+      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "STAR",
+      "Image": "https://i.postimg.cc/CL3QQmWG/star.png",
+      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "ALPHA",
+      "Image": "https://i.postimg.cc/hj2YZgBv/alpha.png",
+      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "SKAI",
+      "Image": "https://i.postimg.cc/528Rd8VZ/skai.png",
+      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "OPEN",
+      "Image": "https://i.postimg.cc/GtN5rQ91/open.png",
+      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "VOULI",
+      "Image": "https://i.postimg.cc/9QPJNVP2/vouli.png",
+      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "ONE CHANNEL",
+      "Image": "https://i.postimg.cc/SKyVB5VM/one.png",
+    "Video": "https://streaming.onetv.gr/show/onetv_high/index.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Action24",
+      "Image": "https://i.postimg.cc/tgtwPWvh/action24.png",
+    "Video": "https://streaming.onetv.gr/show/onetv_high/index.m3u8",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Kontra",
+      "Image": "https://i.postimg.cc/6Qw19T6T/kontra.png",
+      "Video": "https://streaming.onetv.gr/show/onetv_high/index.m3u8",
+      "isUnlocked": true
+    }
+  ]
+}
