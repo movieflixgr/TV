@@ -3,67 +3,67 @@
     {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
-      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8",
       "isUnlocked": true
     },
     {
       "Title": "ERT2",
       "Image": "https://i.postimg.cc/ryjJjR7D/ert2.png",
-      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8",
       "isUnlocked": true
     },
     {
       "Title": "ERT3",
       "Image": "https://i.ibb.co/5BbVsz5/ert3.png",
-      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8",
       "isUnlocked": true
     },
     {
       "Title": "MEGA",
       "Image": "https://i.postimg.cc/HLb0yrQs/mega.png",
-      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "Video": "https://streamcdnh5-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
       "isUnlocked": true
     },
     {
       "Title": "STAR",
       "Image": "https://i.postimg.cc/sxH5r7RK/star.png",
-      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "Video": "https://streamcdnh5-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
       "isUnlocked": true
     },
     {
       "Title": "ALPHA",
       "Image": "https://i.postimg.cc/L8Y3mC5P/alpha.png",
-      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "Video": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
       "isUnlocked": true
     },
     {
       "Title": "SKAI",
       "Image": "https://i.postimg.cc/Bbn2kNRX/skai.png",
-      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "Video": "https://skai-live-gr-bb.siliconweb.com/media/cambria4/index.m3u8",
       "isUnlocked": true
     },
     {
       "Title": "OPEN",
       "Image": "https://i.postimg.cc/nzZ4YnkK/open.png",
-      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "Video": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8",
       "isUnlocked": true
     },
     {
       "Title": "VOULI",
       "Image": "https://i.postimg.cc/BQtxCYxz/vouli.png",
-      "Video": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8",
+      "Video": "https://streamer-cache.grnet.gr/parliament/hls/webtv_640_640x360/index.m3u8?hsesid=3f59d3e3d4763c70816de929c2c0b4ae",
       "isUnlocked": true
     },
     {
       "Title": "ONE CHANNEL",
       "Image": "https://i.postimg.cc/CMcGkTfD/one.png",
-    "Video": "https://streaming.onetv.gr/show/onetv_high/index.m3u8",
+      "Video": "https://streaming.onetv.gr/show/onetv.m3u8",
       "isUnlocked": true
     },
     {
       "Title": "Kontra",
       "Image": "https://i.postimg.cc/YC5f06Ls/kontra.png",
-      "Video": "https://streaming.onetv.gr/show/onetv_high/index.m3u8",
+      "Video": "https://backend.dna-delivery.com/router/v2/d872d88d-2475-4aa1-bd15-826f0a80f6ab/content/kontralive.siliconweb.com%2Flive%2Fkontratv%2Fplaylist.m3u8",
       "isUnlocked": true
     }
   ]
