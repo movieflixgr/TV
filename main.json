@@ -1,76 +1,59 @@
 {
-  "TV": [
+  "Status": [
     {
-      "Title": "ERT1",
-      "Image": "https://i.ibb.co/THybVz9/ert1.png",
-      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8",
+      "isLive": true,
+      "Message": "There Is No Content Available Right Now!"
+    }
+  ],
+  "Rating": [
+    {
+      "isRatingVisible": true,
+      "RatingUrl": "https://play.google.com/store/apps/details?id=com.streammediallc.ets",
+      "isInfoVisible": true,
+      "InfoText": "Η συγκεκριμένη εφαρμογή παρέχει στους χρήστες την δυνατότητα να έχουν άμεση πρόσβαση σε μια συλλογή Ελληνικών Τηλεοπτικών Σειρών, οι οποίες προέρχονται από τις επίσημες πηγές των τηλεοπτικών τους παρόχων. Ο βασικός στόχος της συγκεκριμένης εφαρμογής είναι η προώθηση των δωρεάν Ελληνικών Τηλεοπτικών Σειρών σε παγκόσμιο επίπεδο (π.χ. Έλληνες του εξωτερικού). \n*Με την εγκατάσταση της συγκεκριμένης εφαρμογής, οι χρήστες αποδέχονται την πλήρη αποποίηση των δημιουργών από οποιαδήποτε νομική ευθύνη περί πνευματικών δικαιωμάτων, εφόσον εντός της εφαρμογής χρησιμοποιούνται οι επίσημες πηγές οπτικοακουστικού υλικού, το οποίο παρέχεται δωρεάν στο διαδίκτυο. Οποιοσδήποτε νόμιμος κάτοχος πνευματικών δικαιωμάτων επιθυμεί να αφαιρεθεί οποιαδήποτε Σειρά, η οποία περιλαμβάνεται εντός της συγκεκριμένης εφαρμογής, οφείλει να επικοινωνήσει με την ομάδα προγραμματιστών προτού προβεί σε οποιαδήποτε νομική πράξη.",
+      "SubmissionUrl": "https://stackoverflow.com/questions/18655940/linearlayoutlayoutparams-cannot-be-cast-to-android-widget-framelayoutlayoutpar"
+    }
+  ],
+  "Movies": [
+    {
+      "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
+      "Image": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1662606141/products/pim/4260488130811-3258630/nature-love-msm-tabletten-mit-vitamin-c-365-st",
+      "JSON": "https://movieflixgr.github.io/ET/main.json",
       "isUnlocked": true
     },
     {
-      "Title": "ERT2",
-      "Image": "https://i.postimg.cc/43zwqGzZ/ert2.png",
-      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_720/chunks_dvr.m3u8",
-      "isUnlocked": true
-    },
-    {
-      "Title": "ERT3",
-      "Image": "https://i.postimg.cc/cHzp4Z5j/ert3.png",
-      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8",
-      "isUnlocked": true
-    },
-    {
-      "Title": "MEGA",
-      "Image": "https://i.postimg.cc/NGPV1gDP/mega.png",
-      "Video": "https://streamcdnh5-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
-      "isUnlocked": true
-    },
-    {
-      "Title": "STAR",
-      "Image": "https://i.postimg.cc/CL3QQmWG/star.png",
-      "Video": "https://backend.dna-delivery.com/router/v2/cb55198a-db34-48f4-9c7e-c1f8b9b7978a/content/livestar.siliconweb.com%2Fmedia%2Fstar1%2Fstar1.m3u8",
-      "isUnlocked": true
-    },
-    {
-      "Title": "ALPHA",
-      "Image": "https://i.postimg.cc/hj2YZgBv/alpha.png",
-      "Video": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8",
-      "isUnlocked": true
-    },
-    {
-      "Title": "SKAI",
-      "Image": "https://i.postimg.cc/528Rd8VZ/skai.png",
-      "Video": "https://skai-live.siliconweb.com/media/cambria4/index.m3u8",
-      "isUnlocked": true
-    },
-    {
-      "Title": "OPEN",
-      "Image": "https://i.postimg.cc/GtN5rQ91/open.png",
-      "Video": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8",
-      "isUnlocked": true
-    },
-    {
-      "Title": "VOULI",
-      "Image": "https://i.postimg.cc/9QPJNVP2/vouli.png",
-      "Video": "https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8?hsesid=f66fb01d536d36420a382c6d1a61f023",
-      "isUnlocked": true
-    },
-    {
-      "Title": "ONE CHANNEL",
-      "Image": "https://i.postimg.cc/SKyVB5VM/one.png",
-      "Video": "https://streaming.onetv.gr/show/onetv.m3u8",
-      "isUnlocked": true
-    },
-    {
-      "Title": "Kontra",
-      "Image": "https://i.postimg.cc/6Qw19T6T/kontra.png",
-      "Video": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
-      "isUnlocked": true
-    },
-    {
-      "Title": "Action24",
-      "Image": "https://i.postimg.cc/tgtwPWvh/action24.png",
-      "Video": "",
+      "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
+      "Image": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1662606141/products/pim/4260488130811-3258630/nature-love-msm-tabletten-mit-vitamin-c-365-st",
+      "JSON": "https://movieflixgr.github.io/KTMY/main.json",
       "isUnlocked": false
+    },
+    {
+      "Title": "Ελληνικές Ταινίες \n (Παλαιός Κινηματογράφος)",
+      "Image": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1662606141/products/pim/4260488130811-3258630/nature-love-msm-tabletten-mit-vitamin-c-365-st",
+      "JSON": "https://movieflixgr.github.io/ETPK/main.json",
+      "isUnlocked": false
+    }
+  ],
+  "Series": [
+    {
+      "Title": "Τηλεοπτικές",
+      "Image": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1662606141/products/pim/4260488130811-3258630/nature-love-msm-tabletten-mit-vitamin-c-365-st",
+      "JSON": "https://movieflixgr.github.io/ETS/main.json",
+      "isUnlocked": true
+    }
+  ],
+  "Kids": [
+    {
+      "Title": "Μεταγλωτισμένες Ταινίες",
+      "Image": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1662606141/products/pim/4260488130811-3258630/nature-love-msm-tabletten-mit-vitamin-c-365-st",
+      "JSON": "https://movieflixgr.github.io/MPT/main.json",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Μεταγλωτισμένες paidik;a",
+      "Image": "https://media.dm-static.com/images/f_auto,q_auto,c_fit,h_1200,w_1200/v1662606141/products/pim/4260488130811-3258630/nature-love-msm-tabletten-mit-vitamin-c-365-st",
+      "JSON": "https://movieflixgr.github.io/PYK/main.json",
+      "isUnlocked": true
     }
   ]
 }
