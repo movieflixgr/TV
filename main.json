@@ -3,7 +3,11 @@
     {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
-      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8",
+      "Video": "https://tvepg.eu/el/greece",
+      "StartString": ""/el/greece/channel/ert1" t",
+      "EndString": "><div",
+      "Start": 39,
+      "End": 1,
       "isUnlocked": true
     },
     {
