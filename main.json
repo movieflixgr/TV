@@ -4,9 +4,9 @@
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://tvepg.eu/el/greece",
-      "StartString": ""/el/greece/channel/ert1" t",
+      "StartString": "el/greece/channel/ert1",
       "EndString": "><div",
-      "Start": 39,
+      "Start": 37,
       "End": 1,
       "isUnlocked": true
     },
