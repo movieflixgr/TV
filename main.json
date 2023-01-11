@@ -5,7 +5,7 @@
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8",
       "LiveUrl": "https://tvepg.eu/el/greece",
-      "StartString": "el/greece/channel/ert1",
+      "StartString": "href="/el/greece/channel/ert1" title="",
       "EndString": "><div",
       "Start": 37,
       "End": 1,
