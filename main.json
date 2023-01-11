@@ -10,7 +10,7 @@
       "Start": 38,
       "End": 2,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": false
     },
     {
       "Title": "ERT2",
@@ -22,7 +22,7 @@
       "Start": 43,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": false
     },
     {
       "Title": "ERT3",
@@ -34,7 +34,7 @@
       "Start": 43,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": false
     },
     {
       "Title": "MEGA",
@@ -56,7 +56,7 @@
       "StartString": "data-title=",
       "EndString": ">",
       "Start": 11,
-      "End": 1,
+      "End": 2,
       "isUnlocked": true,
       "liveContent": true
     },
@@ -65,9 +65,9 @@
       "Image": "https://i.postimg.cc/L8Y3mC5P/alpha.png",
       "Video": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
       "LiveUrl": "https://www.alphatv.gr/live/",
-      "StartString": "f54Title",
+      "StartString": "<h2 class=",
       "EndString": "</h2>",
-      "Start": 10,
+      "Start": 21,
       "End": 0,
       "isUnlocked": true,
       "liveContent": true
@@ -76,17 +76,22 @@
       "Title": "SKAI",
       "Image": "https://i.postimg.cc/Bbn2kNRX/skai.png",
       "Video": "https://skai-live-gr-bb.siliconweb.com/media/cambria4/index.m3u8",
+      "LiveUrl": "https://www.skaitv.gr/live",
+      "StartString": "<span id=",
+      "EndString": "</span> </h1>",
+      "Start": 40,
+      "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     },
     {
       "Title": "OPEN",
       "Image": "https://i.postimg.cc/nzZ4YnkK/open.png",
       "Video": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8",
-      "LiveUrl": "https://www.megatv.com/live/",
-      "StartString": "<span class='program-item-title uppercase'>",
-      "EndString": "</span>",
-      "Start": 43,
+      "LiveUrl": "https://www.tvopen.gr/live",
+      "StartString": "ΒΛΕΠΕΤΕ ΤΩΡΑ:",
+      "EndString": "</span><br",
+      "Start": 64,
       "End": 0,
       "isUnlocked": true,
       "liveContent": true
@@ -101,12 +106,17 @@
       "Start": 43,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": false
     },
     {
       "Title": "ONE CHANNEL",
       "Image": "https://i.postimg.cc/CMcGkTfD/one.png",
       "Video": "https://streaming.onetv.gr/show/onetv.m3u8",
+      "LiveUrl": "https://www.megatv.com/live/",
+      "StartString": "<span class='program-item-title uppercase'>",
+      "EndString": "</span>",
+      "Start": 43,
+      "End": 0,
       "isUnlocked": true,
       "liveContent": false
     },
@@ -120,7 +130,7 @@
       "Start": 43,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": false
     }
   ]
 }
