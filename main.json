@@ -55,8 +55,8 @@
       "LiveUrl": "https://www.star.gr/tv/live-stream",
       "StartString": "data-title=",
       "EndString": ">",
-      "Start": 11,
-      "End": 2,
+      "Start": 12,
+      "End": 1,
       "isUnlocked": true,
       "liveContent": true
     },
