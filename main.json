@@ -16,15 +16,25 @@
       "Title": "ERT2",
       "Image": "https://i.postimg.cc/ryjJjR7D/ert2.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8",
+      "LiveUrl": "https://www.megatv.com/live/",
+      "StartString": "<span class='program-item-title uppercase'>",
+      "EndString": "</span>",
+      "Start": 43,
+      "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     },
     {
       "Title": "ERT3",
       "Image": "https://i.ibb.co/5BbVsz5/ert3.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8",
+      "LiveUrl": "https://www.megatv.com/live/",
+      "StartString": "<span class='program-item-title uppercase'>",
+      "EndString": "</span>",
+      "Start": 43,
+      "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     },
     {
       "Title": "MEGA",
@@ -42,15 +52,25 @@
       "Title": "STAR",
       "Image": "https://i.postimg.cc/sxH5r7RK/star.png",
       "Video": "https://streamcdnh5-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
+      "LiveUrl": "https://www.star.gr/tv/live-stream",
+      "StartString": "data-title=",
+      "EndString": ">",
+      "Start": 11,
+      "End": 1,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     },
     {
       "Title": "ALPHA",
       "Image": "https://i.postimg.cc/L8Y3mC5P/alpha.png",
       "Video": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
+      "LiveUrl": "https://www.alphatv.gr/live/",
+      "StartString": "f54Title",
+      "EndString": "</h2>",
+      "Start": 10,
+      "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     },
     {
       "Title": "SKAI",
@@ -63,15 +83,25 @@
       "Title": "OPEN",
       "Image": "https://i.postimg.cc/nzZ4YnkK/open.png",
       "Video": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8",
+      "LiveUrl": "https://www.megatv.com/live/",
+      "StartString": "<span class='program-item-title uppercase'>",
+      "EndString": "</span>",
+      "Start": 43,
+      "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     },
     {
       "Title": "VOULI",
       "Image": "https://i.postimg.cc/BQtxCYxz/vouli.png",
       "Video": "https://streamer-cache.grnet.gr/parliament/hls/webtv_640_640x360/index.m3u8?hsesid=3f59d3e3d4763c70816de929c2c0b4ae",
+      "LiveUrl": "https://www.megatv.com/live/",
+      "StartString": "<span class='program-item-title uppercase'>",
+      "EndString": "</span>",
+      "Start": 43,
+      "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     },
     {
       "Title": "ONE CHANNEL",
@@ -84,8 +114,13 @@
       "Title": "Kontra",
       "Image": "https://i.postimg.cc/YC5f06Ls/kontra.png",
       "Video": "https://delivery-node-nwtt91c51ffk84ri.voe-network.net/engine/hls2/01/08464/6rkb424rd2wa_n/master.m3u8?t=yH3CZxBFm0I1WthCwjuumwX9GGb5GQ_MqbTbYomjhpM&s=1673289241&e=14400&f=42324042&node=delivery-node-nwtt91c51ffk84ri.voe-network.net&i=2.85&sp=4500&asn=6799",
+      "LiveUrl": "https://www.megatv.com/live/",
+      "StartString": "<span class='program-item-title uppercase'>",
+      "EndString": "</span>",
+      "Start": 43,
+      "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     }
   ]
 }
