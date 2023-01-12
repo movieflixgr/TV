@@ -80,7 +80,7 @@
       "StartString": "<script>data[3] = 9;</script>",
       "EndString": "</a><span class=",
       "Start": 186,
-      "End": 1,
+      "End": 0,
       "isUnlocked": true,
       "liveContent": true
     },
