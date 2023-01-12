@@ -49,6 +49,30 @@
       "liveContent": true
     },
     {
+      "Title": "ANT1",
+      "Image": "https://upload.wikimedia.org/wikipedia/el/thumb/3/3a/ANT1_Greek_channel_logo.svg/1200px-ANT1_Greek_channel_logo.svg.png",
+      "Video": "https://antenna-elemental.akamaized.net/cmaf/live/2097595/elemental/ant1.m3u8",
+      "LiveUrl": "https://www.megatv.com/live/",
+      "StartString": "<span class='program-item-title uppercase'>",
+      "EndString": "</span>",
+      "Start": 43,
+      "End": 0,
+      "isUnlocked": true,
+      "liveContent": false
+    },
+    {
+      "Title": "Makedonia TV",
+      "Image": "https://www.maktv.gr/wp-content/uploads/2018/08/Logo_White-300x217.png",
+      "Video": "https://antennaamd.akamaized.net/maktv_akamai/abr/playlist.m3u8?&hdnts=exp=1673533594~hmac=129267afa5dfe5696b3f35aeb95c822bab915b0f0e2a7166a373e358195113a4",
+      "LiveUrl": "https://www.megatv.com/live/",
+      "StartString": "<span class='program-item-title uppercase'>",
+      "EndString": "</span>",
+      "Start": 43,
+      "End": 0,
+      "isUnlocked": true,
+      "liveContent": false
+    },
+    {
       "Title": "STAR",
       "Image": "https://i.postimg.cc/sxH5r7RK/star.png",
       "Video": "https://livestar.siliconweb.com/media/star1/star1.m3u8",
