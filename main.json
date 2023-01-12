@@ -50,7 +50,7 @@
     },
     {
       "Title": "ANT1",
-      "Image": "https://upload.wikimedia.org/wikipedia/el/thumb/3/3a/ANT1_Greek_channel_logo.svg/1200px-ANT1_Greek_channel_logo.svg.png",
+      "Image": "https://i.ibb.co/8zQgHVn/star.png",
       "Video": "https://antenna-elemental.akamaized.net/cmaf/live/2097595/elemental/ant1.m3u8",
       "LiveUrl": "https://www.megatv.com/live/",
       "StartString": "<span class='program-item-title uppercase'>",
