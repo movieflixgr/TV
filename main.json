@@ -65,12 +65,12 @@
       "Image": "https://i.postimg.cc/sxH5r7RK/star.png",
       "Video": "https://livestar.siliconweb.com/media/star1/star1.m3u8",
       "LiveUrl": "https://programmatileorasis.gr",
-      "StartString": "<script>data[3] = 9;</script>",
-      "EndString": "</a><span class=",
-      "Start": 186,
+      "StartString": "d9d9ff",
+      "EndString": "</a><span class",
+      "Start": 85,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     },
     {
       "Title": "ALPHA",
