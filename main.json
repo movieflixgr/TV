@@ -3,7 +3,7 @@
     {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
-      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8",
+      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev1_main/mainabr/playlist_dvr.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
       "StartString": "background-color:#d9d9ff;",
       "EndString": "</a>",
@@ -55,7 +55,7 @@
       "LiveUrl": "https://programmatileorasis.gr/free/2/ANT1",
       "StartString": "background-color:#d9d9ff;",
       "EndString": "</a>",
-      "Start": 103,
+      "Start": 261,
       "End": 0,
       "isUnlocked": true,
       "liveContent": true
