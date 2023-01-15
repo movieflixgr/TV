@@ -4,13 +4,13 @@
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8",
-      "LiveUrl": "https://www.ertflix.gr/epg/audition/prg.239087-ept1-live-3849994",
-      "StartString": "><meta  property=",
-      "EndString": "><meta",
-      "Start": 38,
-      "End": 2,
+      "LiveUrl": "https://program.ert.gr/Ert1/",
+      "StartString": "/details.asp?pid=3848409&chid=9",
+      "EndString": "</a><br>",
+      "Start": 33,
+      "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": true
     },
     {
       "Title": "ERT2",
