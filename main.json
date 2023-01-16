@@ -65,9 +65,9 @@
       "Image": "https://i.postimg.cc/sxH5r7RK/star.png",
       "Video": "https://livestar.siliconweb.com/media/star1/star1.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/3/STAR",
-      "StartString": "background-color:#d9d9ff;",
+      "StartString": "</td><td style=\"background-color:#d9d9ff;\" class=\"categ\">",
       "EndString": "</a>",
-      "Start": 103,
+      "Start": 57,
       "End": 0,
       "isUnlocked": true,
       "liveContent": true
