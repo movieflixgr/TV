@@ -147,5 +147,18 @@
       "liveContent": false,
       "liveDescription": false
     }
+    //
+    //{
+      //"Title": "Groovy",
+      //"Image": "https://www.coolstreaming.us/img/ch/image81294326717.jpg",
+      //"Video": "https://web.onair-radio.eu/groovytv/groovytv/chunklist_w626114062.m3u8",
+      //"LiveUrl": "https://www.megatv.com/live/",
+      //"StartString": "<span class='program-item-title uppercase'>",
+      //"EndString": "</span>",
+      //"Start": 43,
+      //"End": 0,
+      //"isUnlocked": true,
+      //"liveContent": false
+    //}
   ]
 }
