@@ -9,8 +9,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": "</td><td style=\"background-color:#d9d9ff;\" class=\"categ\">",
+      "EndStringD": "</a>",
+      "StartD": 57,
+      "EndD": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": true
     },
     {
       "Title": "ERT2",
@@ -22,7 +27,8 @@
       "Start": 57,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": false
     },
     {
       "Title": "ERT3",
@@ -34,7 +40,8 @@
       "Start": 57,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": false
     },
     {
       "Title": "MEGA",
@@ -46,7 +53,8 @@
       "Start": 57,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": false
     },
     {
       "Title": "ANT1",
@@ -58,7 +66,8 @@
       "Start": 57,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": false
     },
     {
       "Title": "STAR",
@@ -70,7 +79,8 @@
       "Start": 57,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": false
     },
     {
       "Title": "ALPHA",
@@ -82,7 +92,8 @@
       "Start": 57,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": false
     },
     {
       "Title": "SKAI",
@@ -94,7 +105,8 @@
       "Start": 57,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": false
     },
     {
       "Title": "OPEN",
@@ -106,7 +118,8 @@
       "Start": 57,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": false
     },
     {
       "Title": "VOULI",
@@ -118,7 +131,8 @@
       "Start": 57,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": true
+      "liveContent": true,
+      "liveDescription": false
     },
     {
       "Title": "ONE CHANNEL",
@@ -130,7 +144,8 @@
       "Start": 43,
       "End": 0,
       "isUnlocked": true,
-      "liveContent": false
+      "liveContent": false,
+      "liveDescription": false
     }
     //
     //{
