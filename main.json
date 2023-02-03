@@ -61,7 +61,7 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
-      "StartStringD": "buttonClicked(event);\">",
+      "StartStringD": "buttonClicked(event",
       "EndStringD": "</span>",
       "StartD": 32,
       "EndD": 0,
