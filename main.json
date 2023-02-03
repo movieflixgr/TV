@@ -50,7 +50,7 @@
       "End": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": false
     },
     {
       "Title": "ANT1",
