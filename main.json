@@ -61,7 +61,7 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
-      "StartStringD": "🔍</span>",
+      "StartStringD": "buttonClicked(event);",
       "EndStringD": "</span>",
       "StartD": 8,
       "EndD": 0,
