@@ -65,9 +65,9 @@
       "EndStringD": "</span>",
       "StartD": 9,
       "EndD": 0,
-      "isUnlocked": true,
+      "isUnlocked": false,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": false
     },
     {
       "Title": "STAR",
