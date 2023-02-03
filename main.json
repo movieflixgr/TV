@@ -9,9 +9,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": true
     },
     {
       "Title": "ERT2",
@@ -22,9 +26,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": true
     },
     {
       "Title": "ERT3",
@@ -35,9 +43,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": true
     },
     {
       "Title": "MEGA",
@@ -48,9 +60,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": true
     },
     {
       "Title": "ANT1",
@@ -63,7 +79,7 @@
       "End": 0,
       "StartStringD": ">🔍</span>",
       "EndStringD": "</span>",
-      "StartD": 9,
+      "StartD": 10,
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
@@ -78,9 +94,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": true
     },
     {
       "Title": "ALPHA",
@@ -91,9 +111,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": true
     },
     {
       "Title": "SKAI",
@@ -104,9 +128,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": true
     },
     {
       "Title": "OPEN",
@@ -117,9 +145,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": true
     },
     {
       "Title": "VOULI",
@@ -130,9 +162,13 @@
       "EndString": "</a>",
       "Start": 57,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": true
     },
     {
       "Title": "ONE CHANNEL",
