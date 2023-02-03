@@ -55,7 +55,7 @@
     {
       "Title": "ANT1",
       "Image": "https://i.ibb.co/8zQgHVn/star.png",
-      "Video": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/b0966e1e2108447ca9d90048c9ddc951/ant1-cmaf/ant1_1.m3u8",
+      "Video": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/b0966e1e2108447ca9d90048c9ddc951/ant1-cmaf/ant1.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/2/ANT1",
       "StartString": "</td><td style=\"background-color:#d9d9ff;\" class=\"categ\">",
       "EndString": "</a>",
