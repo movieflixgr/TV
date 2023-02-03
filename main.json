@@ -147,6 +147,8 @@
       "liveContent": false,
       "liveDescription": false
     }
+  ]
+}
     //
     //{
       //"Title": "Groovy",
@@ -160,5 +162,3 @@
       //"isUnlocked": true,
       //"liveContent": false
     //}
-  ]
-}
