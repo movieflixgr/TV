@@ -1,6 +1,23 @@
 {
   "TV": [
     {
+      "Title": "Nova Sports Prime",
+      "Image": "https://i.ibb.co/yYQ6bYt/novasports.png",
+      "Video": "https://a15.azplay.me/hls/streama210704/index.m3u8?cst=aa96b9524971b35fe69d9b9170387a92",
+      "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
+      "StartString": "</td><td style=\"background-color:#d9d9ff;\" class=\"categ\">",
+      "EndString": "</a>",
+      "Start": 57,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": false,
+      "liveDescription": false
+    },
+    {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8",
