@@ -167,23 +167,6 @@
       "liveDescription": true
     },
     {
-      "Title": "ALPHA CYPRUS",
-      "Image": "https://i.ibb.co/y6j9XWZ/alphacy.png",
-      "Video": "https://edge1.zorrohd6.xyz/live/ST4e6824eff0afa5f.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/5/ALPHA",
-      "StartString": "</td><td style=\"background-color:#d9d9ff;\" class=\"categ\">",
-      "EndString": "</a>",
-      "Start": 57,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": false,
-      "liveDescription": false
-    },
-    {
       "Title": "SKAI",
       "Image": "https://i.postimg.cc/Bbn2kNRX/skai.png",
       "Video": "https://skai-live-gr-bb.siliconweb.com/media/cambria4/index.m3u8",
