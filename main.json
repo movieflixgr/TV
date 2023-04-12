@@ -1,23 +1,6 @@
 {
   "TV": [
     {
-      "Title": "Cosmote",
-      "Image": "https://play-lh.googleusercontent.com/L9oRFQjvpgqUSbJmdl-zbB5IAOANPQ_JQa-UfTuwsXtJ-xB-zxsqKolKQesET1kX2WYP",
-      "Video": "https://class.foothubhd.xyz/published/tracks-v1a1/mono.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
-      "StartString": "e=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 31,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": false,
-      "liveDescription": false
-    },
-    {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8",
