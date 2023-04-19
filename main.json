@@ -36,7 +36,7 @@
     },
     {
       "Title": "ERT3",
-      "Image": "https://i.ibb.co/5BbVsz5/ert3.png",
+      "Image": "https://iili.io/HviqRff.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "StartString": "e=\"color:black;\" class=\"categ\">",
@@ -53,7 +53,7 @@
     },
     {
       "Title": "ERT WORLD",
-      "Image": "https://i.ibb.co/Chwyrp4/ertworld.png",
+      "Image": "https://iili.io/Hviq7Ul.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8",
       "LiveUrl": "https://www.megatv.com/live/",
       "StartString": "<span class='program-item-title uppercase'>",
@@ -66,7 +66,7 @@
     },
     {
       "Title": "ERT NEWS",
-      "Image": "https://i.ibb.co/GsDZph0/ertnews.png",
+      "Image": "https://iili.io/HviqaJ2.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "StartString": "e=\"color:black;\" class=\"categ\">",
@@ -100,7 +100,7 @@
     },
     {
       "Title": "ANT1",
-      "Image": "https://i.ibb.co/8zQgHVn/star.png",
+      "Image": "https://iili.io/HviqlO7.png",
       "Video": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/b0966e1e2108447ca9d90048c9ddc951/ant1-cmaf/ant1.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/2/ANT1",
       "StartString": "e=\"color:black;\" class=\"categ\">",
@@ -117,7 +117,7 @@
     },
     {
       "Title": "Makedonia TV",
-      "Image": "https://i.ibb.co/WGZPpX0/makedoniatv.png",
+      "Image": "https://iili.io/Hviq5l4.png",
       "Video": "https://dlm34ll53zqql.cloudfront.net/out/v1/ab680def497d44e4864475e33e7a3efd/hls/maktv.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/17/TV%20%CE%9C%CE%91%CE%9A%CE%95%CE%94%CE%9F%CE%9D%CE%99%CE%91",
       "StartString": "e=\"color:black;\" class=\"categ\">",
