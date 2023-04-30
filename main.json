@@ -1,4 +1,9 @@
 {
+  "Main": [
+    {
+      "Live": true
+    }
+  ],
   "TV": [
     {
       "Title": "ERT1",
