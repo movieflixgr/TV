@@ -123,7 +123,7 @@
     {
       "Title": "Makedonia TV",
       "Image": "https://iili.io/Hviq5l4.png",
-      "Video": "https://dlm34ll53zqql.cloudfront.net/out/v1/ab680def497d44e4864475e33e7a3efd/hls/maktv.m3u8",
+      "Video": "https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_1.m3u8",
       "LiveUrl": "https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_2.m3u8",
       "StartString": "e=\"color:black;\" class=\"categ\">",
       "EndString": "</a><spa",
