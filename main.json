@@ -65,6 +65,10 @@
       "EndString": "</span>",
       "Start": 44,
       "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
       "isUnlocked": true,
       "liveContent": false,
       "liveDescription": false
