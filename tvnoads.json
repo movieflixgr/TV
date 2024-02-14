@@ -8,6 +8,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "ERT1",
       "isUnlocked": true,
@@ -18,7 +19,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -26,6 +26,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "ERT2",
       "isUnlocked": true,
@@ -36,7 +37,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8",
-"VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/87/%CE%95%CE%A1%CE%A42",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -44,6 +44,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "ERT3",
       "isUnlocked": true,
@@ -54,7 +55,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -62,6 +62,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "ERT WORLD",
       "isUnlocked": true,
@@ -71,8 +72,7 @@
       "EndString": "</span>",
       "StartD": 10,
       "liveDescription": false,
-      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8", 
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
+      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8",
       "LiveUrl": "https://www.megatv.com/live/",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -80,6 +80,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "ERT NEWS",
       "isUnlocked": true,
@@ -90,7 +91,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -98,6 +98,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "MEGA",
       "isUnlocked": true,
@@ -108,7 +109,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://streamcdnh4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/1/MEGA",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -116,6 +116,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "ANT1",
       "isUnlocked": true,
@@ -126,7 +127,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_3.m3u8",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/2/ANT1",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -134,6 +134,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "Makedonia TV",
       "isUnlocked": true,
@@ -144,7 +145,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_3.m3u8",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/17/TV%20%CE%9C%CE%91%CE%9A%CE%95%CE%94%CE%9F%CE%9D%CE%99%CE%91",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -152,6 +152,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "STAR",
       "isUnlocked": true,
@@ -162,7 +163,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://livestar.siliconweb.com/media/star1/star1.m3u8",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/3/STAR",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -170,6 +170,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "ALPHA",
       "isUnlocked": true,
@@ -179,8 +180,7 @@
       "EndString": "</a><spa",
       "StartD": 10,
       "liveDescription": false,
-      "Video": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8", 
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
+      "Video": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/5/ALPHA",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -188,6 +188,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "SKAI",
       "isUnlocked": true,
@@ -198,7 +199,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://skai-live-gr-bb.siliconweb.com/media/cambria4/index.m3u8",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/7/%CE%A3%CE%9A%CE%91%CE%AA",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
@@ -206,6 +206,7 @@
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "OPEN",
       "isUnlocked": true,
@@ -216,13 +217,14 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4","LiveUrl": "https://programmatileorasis.gr/free/99/Open%20Beyond",
+      "LiveUrl": "https://programmatileorasis.gr/free/99/Open%20Beyond",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
     },
     {
       "liveContent": false,
       "Start": 44,
+      "VideoOld": "https://movieflixgr.github.io/Main/MOVIEFLIXPROMOAPP3VIDEO.mp4",
       "EndD": 0,
       "Title": "VOULI",
       "isUnlocked": true,
@@ -233,7 +235,6 @@
       "StartD": 10,
       "liveDescription": false,
       "Video": "https://streamer-cache.grnet.gr/parliament/hls/webtv_640_640x360/index.m3u8?hsesid=3f59d3e3d4763c70816de929c2c0b4ae",
-      "VideoOld": "https://streamable.com/l/cixw9d/mp4-high.mp4",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "End": 0,
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">"
